@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=12V Pin=D4-2
+Added Pin To Net: NetName=12V Pin=RE1-2
+Added Member To Class: ClassName=TS1A Member=Component D4 FR107
+Added Member To Class: ClassName=TS1A Member=Component H_L1 Welding-hole
+Added Room: Name=TS1A

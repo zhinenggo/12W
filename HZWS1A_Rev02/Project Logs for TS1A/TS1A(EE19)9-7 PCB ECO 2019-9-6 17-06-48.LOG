@@ -1,0 +1,5 @@
+Change Component Comment : Designator=C2 Old Comment=1nF/1206/50V/10% New Comment=1nF/1206/1kV/10%
+Change Component Comment : Designator=CY1 Old Comment=1nF/1206/50V/10% New Comment=1nF/1206/1kV/10%
+Change Component Comment : Designator=R7 Old Comment=2R/1206/5% New Comment=1.8R/1206/5%
+Change Component Comment : Designator=R8 Old Comment=2R/1206/5% New Comment=1.8R/1206/5%
+Added Room: Name=TS1A

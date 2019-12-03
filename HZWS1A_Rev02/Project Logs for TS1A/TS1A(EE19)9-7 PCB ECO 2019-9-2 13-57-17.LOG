@@ -1,0 +1,37 @@
+Change Component Comment : Designator=R7 Old Comment=1.8R/1206/5% New Comment=2R/1206/5%
+Change Component Comment : Designator=R8 Old Comment=1.8R/1206/5% New Comment=2R/1206/5%
+Change Component Comment : Designator=C2 Old Comment=1nF/1206/500V/10% New Comment=1nF/1206/50V/10%
+Change Component Comment : Designator=CY1 Old Comment=1nF/1206/500V/10% New Comment=1nF/1206/50V/10%
+Added Component: Designator=D4(SOD123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DO-214-AB/SMC; 2 C-Bend Leads; Body 7.9 x 5.9 mm, inc. leads (LxW)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Sep-1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=H_L1(PAD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H_N1(PAD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RE1(HKE_HRS1_DC12v)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=~220L Pin=H_N1-1
+Added Pin To Net: NetName=~220N Pin=RE1-1
+Added Pin To Net: NetName=~220N Pin=RE1-6
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=RE1-5
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=RE1-2
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetH_L1_1 Pin=H_L1-1
+Added Pin To Net: NetName=NetH_L1_1 Pin=RE1-3
+Added Net: Name=NetH_L1_1
+Added Member To Class: ClassName=TS1A Member=Component D4 FR107
+Added Member To Class: ClassName=TS1A Member=Component H_L1 Welding-hole
+Added Member To Class: ClassName=TS1A Member=Component H_N1 Welding-hole
+Added Member To Class: ClassName=TS1A Member=Component RE1 RELAY-BSZ6-SS-112L
+Added Room: Name=TS1A
